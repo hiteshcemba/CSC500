@@ -5,7 +5,7 @@ try:
 
     # Perform multiplication
     product = num1 * num2
-    print(f"The product of {num1} and {num2} is: {product}")
+    print(f"The multiplication of {num1} and {num2} is: {product}")
 
     # Perform division, handling division by zero
     if num2 == 0:
